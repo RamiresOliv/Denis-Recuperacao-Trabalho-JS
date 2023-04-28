@@ -1,5 +1,5 @@
 // INDEX.JS
-const src = require("./Sprite.js");
+const src = require("./Src/Sprite.js");
 
 // Seria um require("Scratch").. Mas nesse caso irei usar um Object mesmo
 const Scratch = {
