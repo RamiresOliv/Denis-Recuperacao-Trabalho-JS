@@ -19,6 +19,8 @@ Sct = { // Sct seria uma abreviação de Scratch
 }
 */
 
+// Inclusive aqui também seria chamado por um require("Scratch") mas optei chamar pelo próprio export então o Scratch todo vem na função exports.Exec = (Sprite, <Sct>) =>..
+
 ProMode = true; // Olá/Hello World!
 
 // This will be called by another script. Ex a "index.js"
